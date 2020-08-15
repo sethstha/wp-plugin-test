@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.26.12",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-sass": "^4.",
+    "name": "wp-plugin-test",
+    "version": "1.0.0",
+    "main": "gulp.js"
+  },
+  "name": "wp-plugin-test",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethstha/wp-plugin-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethstha/wp-plugin-test/issues"
+  },
+  "homepage": "https://github.com/sethstha/wp-plugin-test#readme",
+  "description": ""
+}
